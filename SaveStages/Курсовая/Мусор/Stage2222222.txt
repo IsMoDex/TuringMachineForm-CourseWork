@@ -1,0 +1,3 @@
+Alphabet:01
+Conditions:	1λ	0λ	λλ
+0	1λ RN q0	0λ RN q0	λλ NN !

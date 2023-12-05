@@ -1,0 +1,28 @@
+Alphabet:abc
+Conditions:	a	b	c	λ
+0	a R q0	b R q1	b N q23	b N q23
+1	a R q2	b N q23	c R q1	b N q23
+2	b N q23	b R q2	b N q23	λ R q3
+3	a L q3	b L q3	c L q3	λ R q4
+4	c R q5	b N q23	c R q4	b N q23
+5	a R q5	b R q6	b N q23	b N q23
+6	a R q7	b N q23	a R q7	b N q23
+7	a R q8	b N q23	a R q8	b N q23
+8	a R q9	b N q23	a R q9	b N q23
+9	a R q10	b N q23	a R q10	b N q23
+10	a R q6	b N q23	a R q11	b N q23
+11	b L q12	b N q23	c R q3	b N q23
+12	a L q12	b L q13	b N q23	b N q23
+13	a R q14	b N q23	c L q13	λ R q14
+14	b N q23	b N q23	a R q15	b N q23
+15	b N q23	b R q16	c R q15	b N q23
+16	a R q16	b R q17	b N q23	b N q23
+17	a R q18	a R q18	b N q23	b N q23
+18	a R q19	a R q19	b N q23	b N q23
+19	a R q17	a R q20	b N q23	b N q23
+20	a L q20	b L q21	b N q23	λ L q25
+21	a L q21	b L q22	b N q23	b N q23
+22	a L q22	b L q13	b N q23	b N q23
+23	a R q23	a R q23	a R q23	λ L q24
+24	λ L q24	λ L q24	λ L q24	b N !
+25	λ L q25	λ L q25	λ L q25	a N !

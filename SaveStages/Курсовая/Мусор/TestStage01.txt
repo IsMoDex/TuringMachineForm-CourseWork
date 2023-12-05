@@ -1,0 +1,3 @@
+Alphabet:01
+Conditions:	0	1	λ
+0	1 R q0	0 R q0	λ N !

@@ -1,0 +1,17 @@
+Alphabet:01c
+Conditions:	0	1	c	λ
+0	0 R q12	λ R q1	c R q12	0 N !
+1	λ R q2	1 R q12	c R q12	λ N q12
+2	0 R q12	λ R q3	c R q12	λ N q12
+3	λ R q4	1 R q12	c R q12	λ N q12
+4	0 R q4	1 R q4	c R q5	λ N q12
+5	0 R q5	1 R q5	c R q12	λ L q6
+6	0 R q12	λ L q7	c R q12	  N q0
+7	λ L q8	1 R q12	c R q12	  N q0
+8	0 R q12	λ L q9	c R q12	  N q0
+9	λ L q10	1 R q12	c R q12	  N q0
+10	0 R q12	1 L q11	1 L q14	  N q0
+11	0 L q11	1 L q11	c L q11	λ R q0
+12	0 R q12	1 R q12	c R q12	λ L q13
+13	λ L q13	λ L q13	λ L q13	0 N !
+14	0 R q12	1 R q12	c R q12	λ R !
